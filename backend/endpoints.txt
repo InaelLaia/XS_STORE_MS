@@ -1,0 +1,4 @@
+
+(http://localhost:8080/produto) retorna lista de produtos nao está pronta ainda
+
+(http://localhost:8080/dashboard) retorna view de todas informações da tela de dashboard
